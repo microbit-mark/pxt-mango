@@ -1,0 +1,19 @@
+{
+    "name": "Untitled",
+    "dependencies": {
+        "core": "*",
+        "radio": "*",
+        "pxt-my-test": "github:microbit-mark/pxt-my-test#master"
+    },
+    "description": "",
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "custom.ts"
+    ],
+    "preferredEditor": "tsprj",
+    "testFiles": [
+        "test.ts"
+    ]
+}
